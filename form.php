@@ -9,8 +9,8 @@ body{
 .main{
     padding: 40px;
     width: 250px;
-    background-color: white;
-    border: 2px solid red;
+    background-color: blue;
+    border: 2px solid white;
 }
 
 h1{
