@@ -9,7 +9,7 @@ body{
 .main{
     padding: 40px;
     width: 250px;
-    background-color: #00ffd2;
+    background-color: white;
     border: 2px solid #fd0130;
 }
 
